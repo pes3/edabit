@@ -9,3 +9,8 @@ def is_valid_PIN(pin):
 		return True
 	else:
 		return False
+
+
+print(is_valid_PIN('1532')) # print result of function call
+print(is_valid_PIN) # 
+
